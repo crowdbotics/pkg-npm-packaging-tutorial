@@ -1,0 +1,11 @@
+{
+  "name": "@pkg/packaging-tutorial",
+  "description": "A simple tutorial for packaging npm projects",
+  "version": "0.0.1",
+  "author": "Daniel Sousa <daniel.s@crowdbotics.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "files": ["src/*"],
+  "dependencies": {},
+  "devDependencies": {}
+}
